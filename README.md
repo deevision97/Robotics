@@ -5,7 +5,4 @@ code enables serial communication between UNO and MCU by sending data in forms o
 can be useful for transactions.
 
 data features:
-->RFID
-->Temperature
-->Humidity
-->Load
+->RFID || Temperature || Humidity || Load
